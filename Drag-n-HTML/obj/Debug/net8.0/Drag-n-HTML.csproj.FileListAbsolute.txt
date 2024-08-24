@@ -1,0 +1,14 @@
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\bin\Debug\net8.0\Drag-n-HTML.exe
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\bin\Debug\net8.0\Drag-n-HTML.deps.json
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\bin\Debug\net8.0\Drag-n-HTML.runtimeconfig.json
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\bin\Debug\net8.0\Drag-n-HTML.dll
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\bin\Debug\net8.0\Drag-n-HTML.pdb
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\Drag-n-HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\Drag-n-HTML.AssemblyInfoInputs.cache
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\Drag-n-HTML.AssemblyInfo.cs
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\Drag-n-HTML.csproj.CoreCompileInputs.cache
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\Drag-n-HTML.dll
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\refint\Drag-n-HTML.dll
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\Drag-n-HTML.pdb
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\Drag-n-HTML.genruntimeconfig.cache
+C:\Users\Complab502-01\dragnhtml\Drag-n-HTML\obj\Debug\net8.0\ref\Drag-n-HTML.dll
